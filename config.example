@@ -1,0 +1,15 @@
+NICK=
+USER=
+REALNAME=
+PREFIX=
+
+SERVER=
+PORT=
+
+CHAN=
+
+ADMIN_NICK=
+REPO=
+LOG=
+
+# vim: set ft=sh:
